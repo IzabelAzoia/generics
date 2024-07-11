@@ -1,4 +1,4 @@
-package comparableXcomparator.list.operacoesBasicas;
+package comparableXcomparator.list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package exemploDeList;
+package comparableXcomparator.list.exemploDeList;
  
 import java.util.ArrayList;
 import java.util.Collections;
